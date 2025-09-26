@@ -8,4 +8,7 @@ source venv/bin/activate
 
 pip3 install pdf2image
 
+
+ne
+
 e agora executar o código
